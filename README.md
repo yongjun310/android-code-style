@@ -1193,25 +1193,10 @@ AS 已帮你集成了一些注释模板，我们只需要直接使用即可，�
 
 ## 版本日志
 
-* 17/12/08: 新增组件化和三方库开发资源文件规范；
-* 17/12/05: 新增 logo；
-* 17/12/04: 完善按功能分包，修复 typo，定该版为完结版；
-* 17/12/03: 完善代码样式规范和测试规范；
-* 17/12/02: 新增代码样式规范；
-* 17/12/01: 对资源文件规范进行重构；
-* 17/11/29: 格式化中英混排；
-* 17/03/14: 包名划分为按功能划分；
-* 17/03/13: 新增其他注释；
-* 17/03/08: 规范排版，修复 typo 及新增一些规范；
-* 17/03/07: 修订目录排版，完善某些细节；
-* 17/03/06: 发布初版；
+* 19/11/01: 新增check_style；
+* 19/11/01: 发布初版；
 
 
-## 打个小广告
-
-欢迎加入我的知识星球「**[基你太美](https://t.zsxq.com/FmeqfYF)**」，我会在星球中分享 [AucFrame](https://blankj.com/2019/07/22/auc-frame/) 框架、大厂面经、[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) 更详尽的说明...一切我所了解的知识，你可以通过支付进入我的星球「**[基你太美](https://t.zsxq.com/FmeqfYF)**」进行体验，加入后优先观看星球中精华的部分，如果觉得星球的内容对自身没有收益，你可以自行申请退款退出星球，也没必要加我好友；**如果你已确定要留在我的星球，可以通过扫描如下二维码（备注：基你太美+你的星球昵称）加我个人微信，方便我后续拉你进群(PS：进得越早价格越便宜)。**
-
-![我的二维码](https://raw.githubusercontent.com/Blankj/AndroidUtilCode/master/art/wechat.png)
 
 
 
@@ -1240,7 +1225,6 @@ AS 已帮你集成了一些注释模板，我们只需要直接使用即可，�
 [Android 包命名规范]: http://www.ayqy.net/blog/android%E5%8C%85%E5%91%BD%E5%90%8D%E8%A7%84%E8%8C%83/
 [Android 开发最佳实践]: https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md
 [Android 编码规范]: http://www.jianshu.com/p/0a984f999592
-[阿里巴巴 Java 开发手册]: https://github.com/alibaba/p3c/blob/master/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E8%AF%A6%E5%B0%BD%E7%89%88%EF%BC%89.pdf
 [Project and code style guidelines]: https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md
 [Google Java 编程风格指南]: http://www.hawstein.com/posts/google-java-style.html
 [小细节，大用途，35 个 Java 代码性能优化总结！]: http://www.jianshu.com/p/436943216526
